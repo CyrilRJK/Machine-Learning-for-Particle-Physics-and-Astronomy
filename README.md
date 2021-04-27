@@ -9,7 +9,8 @@ Element 2: the code is contained within the following files
 	- run_models.ipynb: contains code to load models, predict the test set and save predictions to csv,
 			put ExamData.csv in same as ipynb files first.
 	- processing.py file of utilty functions removed from notebooks for clarity.
-	- 
+	
+	
 Element 3: All models dicussed in the report are stored in the 'models' folder.
 	   Load models with "tensorflow.keras.models.load_model()" function.
 	   
